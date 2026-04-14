@@ -209,3 +209,5 @@ __marimo__/
 # Other
 results/
 data/
+.DS_Store
+*.ipynb_checkpoints
